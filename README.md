@@ -30,8 +30,7 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
