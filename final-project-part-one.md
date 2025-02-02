@@ -5,7 +5,10 @@ Fish are the third most popular pets in the United States, following dogs and ca
 
 With the help of interactive presentation and interesting visualizations, I aim to address this gap by educating my audience on the proper care and living conditions for popular fish species, ensuring they thrive rather than just survive.
 
- ## User Story
+## User Motivation
+As a reader, I want to <ins>learn more about my pet fish </ins> so that I <ins>can be a more responsible pet owner</ins>. I can do this by <ins>being more mindful of the habitat my fish require before buying them at the pet store</ins>
+
+## User Story
 ![User Story](Outline.png)
 
 ## Initial sketches
