@@ -1,47 +1,51 @@
 | [home page](https://inferno080.github.io/ykale-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Most Popular Valentine's Day Candies
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Step 1: The Visualization
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+<img src="VDcandy.webp"></img>
+Source: [candystore.com](https://www.candystore.com/blogs/holidays/valentines-candy-popular-states)
 
-## Step one: the visualization
+This was one of the first visualizations I came across on MakeoverMonday and it caught my eye because of two reasons:
+<ol>
+  <li>As an international student, when I came across the visualization, I had no idea what candies I was even looking at. I found it very interesting that something that might be easily recognizable to US citizens was so unfamilar to people from other geographic locations. This taught me to never visualize my data in a way that was extremly locale specific and I took on the challenge of making the visualization more inclusive.</li>
+  <li>I found the data very relevent with Valenties Day coming up soon, and wanted to work with data that advertisers, groccery chains and candy shoppers would be using this week.</li>
+</ol>
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+## Step 2: The Critique
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I think the choropleth map is a great choice for representing this data since it’s location-focused, and I really liked how the fonts and background complemented the theme. The overall aesthetic worked well in telling the story.
 
-## Step three: Sketch a solution
+However, I found the use of actual candy images instead of color coding to be a major drawback. As someone who didn’t grow up in the U.S., I struggled to recognize many of the chocolates, especially since the map lacked a key or labels. This made it almost impossible to navigate, particularly for chocolates without distinct wrappers. The images also caused the state borders to blend together, making it difficult to distinguish between regions—especially in the Northeast, where things felt cluttered. Texas was another issue, as the border color was too similar to some of the candy wrappers.
 
-## Step four: Test the solution
+If I were to improve this visualization, I would use colors instead of images to represent different chocolates while still keeping the Valentine's Day theme intact. Making the map interactive with a tooltip for the second and third most popular chocolates in each state would add more depth. Adding a key would be crucial for those unfamiliar with these brands, and I’d also ensure that the borders stand out more. Lastly, I’d adjust the title placement so it doesn’t overlap with the map.
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Using Stephen Few’s Data Visualization Effectiveness Profile, I’d say the chart is truthful in its representation but lacks completeness due to the missing key and labels. While it does communicate its purpose, the readability issues make it less effective than it could be. It also felt cluttered and distracting, which made it harder to identify patterns. To improve it, I’d recommend replacing images with a color-coded system, adding a legend, and refining the layout to enhance clarity and usability.
 
-Questions to ask (modify these for your own interviews): 
+## Step 3: Rough Sketch
 
-- Can you tell me what you think this is?
+<img src="image.png"></img>
 
-- Can you describe to me what this is telling you?
+## Step 4: Test the solution
 
-- Is there anything you find surprising or confusing?
+
+Script:
+
+- What are your first impressions when you see this visualization?
+
+- If I could change anything about the colors, what should it be?
 
 - Who do you think is the intended audience for this?
 
-- Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|      What are your first impressions when you see this visualization?    |      I really like the color theme that you have used. It's cute       |     It took me a second to realise that the map was about candy. The purple/red colors initially looked like an election map to me, especially with Texas being bright red     |
+|       If I could change anything about the colors, what should it be?    |      Maybe try shades that are more pink, instead of red/purple. You could also logically group different kinds of candies together into simlar shades       |     I would make Texas and other Southern states more pink/purple to remove the political association        |
+|    Who do you think is the intended audience for this?      |     I think this is just a fun light-hearted visualization that you would see on social media, where people might compare their purchasing habits with their neighbours        |       I think that this data could be useful for advertizers to do a market analysis and try to develop marketing startegies    |
 
 Synthesis: 
 
