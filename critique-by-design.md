@@ -42,7 +42,7 @@ Script:
 
 Results: 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 (Student at Heinz College, MEIM)| Interview 2 (Student at Heinz College, MAM)|
 |----------|-------------|-------------|
 |      What are your first impressions when you see this visualization?    |      I really like the color theme that you have used. It's cute       |     It took me a second to realise that the map was about candy. The purple/red colors initially looked like an election map to me, especially with Texas being bright red     |
 |       If I could change anything about the colors, what should it be?    |      Maybe try shades that are more pink, instead of red/purple. You could also logically group different kinds of candies together into simlar shades       |     I would make Texas and other Southern states more pink/purple to remove the political association        |
