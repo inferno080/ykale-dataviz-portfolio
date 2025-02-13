@@ -27,8 +27,9 @@ Using Stephen Few’s Data Visualization Effectiveness Profile, I’d say the ch
 
 <img src="image.png"></img>
 
-## Step 4: Test the solution
+Fixed the issues in the original visualization by using colors instead of the images and also added a key for accessibility. I tried to maintain the theme by using relevant colors, and also implemented the tooltip for greater interactivity.  
 
+## Step 4: Test the solution
 
 Script:
 
@@ -49,15 +50,17 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I found these commemnts very interesting. As someone who hasn't been exposed to US election maps a lot, I didn't really co-relate the color red with a political party. However, as both my interviewees were US citizens, they were quick to point out the similarity. 
+I have two main actionable insights from my interviews.
+<ol>
+  <li>Logically group chocolate based and non-chocolate based candies together</li>
+  <li>Ensure that there is no unintentional polictical co-relation by using muted colors for red states like Texas</li>
+</ol>
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<iframe title="Most Popular Valentine's Day Candy" aria-label="Map" id="datawrapper-chart-w6yC8" src="https://datawrapper.dwcdn.net/w6yC8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
-## References
-_List any references you used here._
+In my final solution, I addressed the concerns that my interviwees had, by using appropriate colors. I ensured that Texas wasn't dark red in color. Since it was the largest state and was strongly associated politically with the color red. I also grouped the chocolate based and non-chocolate based candies together. 
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+With Datawarpper, I also checked if my colors was easily distinguisable by color blind individuals.
