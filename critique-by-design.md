@@ -57,7 +57,7 @@ I have two main actionable insights from my interviews.
   <li>Ensure that there is no unintentional polictical co-relation by using muted colors for red states like Texas</li>
 </ol>
 
-## Step five: build the solution
+## Step 5: The Solution
 
 <iframe title="Most Popular Valentine's Day Candy" aria-label="Map" id="datawrapper-chart-w6yC8" src="https://datawrapper.dwcdn.net/w6yC8/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="622" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
