@@ -1,68 +1,51 @@
 | [home page](https://inferno080.github.io/ykale-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+[Shorthand Prototype](https://preview.shorthand.com/8CrcmjXKrmo1axdj)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My target audience primarily consists of graduate and undergraduate students that was to pursue corporate jobs after graduation. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  To understand the first impression of my audience   |    What was your first impression about the presentation?           |
+|  To identify if the users can relate to the content    |      Who do you think is the target audience for this presentation?            |
+|  To identify points I should fix    |    What was something about the presentation that you didn't like?              |
+|  To identify if the message is clear   |    As a [grad/undergrad] student, what are some things youn would do differently after this presentation?          |
+|  To identify the impact of the presentation   |    How useful was this presentation for you?          |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (MEIM Student, CMU) | Interview 2 (MISM Student, CMU) | Interview 3 (BE Data Science Student, VIT) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What was your first impression about the presentation? | Loved the topic, found it very relevant in the current job market |     Found it very useful and really liked the topic      |           Found all the charts and visualizations to be very helpful. Loved the animated art|
+|        Who do you think is the target audience for this presentation?                     |        Students                       |   Graduate students          |   Engineering Students          | Undergraduate students
+|        What was something about the presentation that you didn't like?      |   Wasn't sure about what 'projects' meant, in context of entertainment management        |       It was a bit too long, high school part can be removed. It feels irrelevant for graduate students      |   The title for Box plot was unclear, making it harder to understand |
+|                As a [grad/undergrad] student, what are some things youn would do differently after this presentation?               |  "I will try to pursue some extracurricular activities"    |   "I would probably not stress about my soft skills as much and try to focus more on technical projects"       |       "I would probably focus more on projects more than trying to find a third internship"        |
+|           How useful was this presentation for you?                  |           "I found it very insightful, helped me visually understand the impact of extracurriculars and made me realise I need to get out there and step out of my comfort zone"                    |    Found it very helpful for all students         |        Wanted to share the presentation with his friends                          |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Box Plot should be made more clear | Will add a better title and annotation for Box Plot (GPA) |
+|       Need to revamp high school section                                   |        Will shorten or add annotations to High School section for quick readability                                                                       |
+|                      Presentation felt too long                 |        Since I am presenting a lot of data, I will keep each section short and to the point, especially while presenting                                 
+                                                                 
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Overall, my presentation had a positive reception. The topic was well liked and was the data was very relevant. I just need be careful about not diving too much into detail for any particular section while presenting.
 
 ## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+https://www.tableau.com/products/tableau
+https://www.datawrapper.de/
+https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/
+https://storyset.com/
+https://shorthand.com/
 
