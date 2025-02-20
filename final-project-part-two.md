@@ -43,9 +43,9 @@ My target audience primarily consists of graduate and undergraduate students tha
 Overall, my presentation had a positive reception. The topic was well liked and was the data was very relevant. I just need be careful about not diving too much into detail for any particular section while presenting.
 
 ## References
-https://www.tableau.com/products/tableau
-https://www.datawrapper.de/
-https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/
-https://storyset.com/
-https://shorthand.com/
+1. https://www.tableau.com/products/tableau
+2. https://www.datawrapper.de/
+3. https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/
+4. https://storyset.com/
+5. https://shorthand.com/
 
