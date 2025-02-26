@@ -1,36 +1,32 @@
 | [home page](https://inferno080.github.io/ykale-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The Final Data Story
+[Public Article Link](https://carnegiemellon.shorthandstories.com/a-guide-to-thriving-in-the-2025-job-market/index.html)
 
-Text here!
+My story touches on a topic that every student has on the top of their mind. We all know that the current job market is ... bad. This presentation aims to highlight the differences between students that bagged a job offer after graduation and students that remained unplaced. By making these statistical comparisons, we can identify patterns that placed students adhere to, which might help all students achieve success. I list a few action items at the end that make all this information easily digestable.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+1. Changed the title of title of Box plot to make it more lively and convey what the data is trying to tell
+2. Made changes in font sizes, according to feedback
+3. Shortended my picth, to adhere to the 1 minute limit.
 
-Text here!
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+The audience includes undergraduate as well as graduate students that want to enter the job market. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+1. I did not remove the high school section, as suggested by a user during my user research; as I felt it would still be relevant for ungergraduate students.
+2. I checked all my graphs on the colorblind checker to make sure the presentation was inclusive of people with visual impariments.
+3. Used red color to highlight action items and important insights
+4. Added a summary of all action items at the end, to reenforce the important points. 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+  Note:  I recieved feedback from the TA, stating that a few references seemed missing for the numbers I have stated. However, I have cited all references I used in my shorthand presentation. All statistical calculations are my own and I haven't refereced to any external resource for them. 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+Did not use AI for this assignment.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I recieved the TA feedback for Part II a tad bit too late, so I didn't get time to incorporate all the changes. If I had more time, I would focus on reframing the first few paragraphs as mentioned in my feedback for Part II.
 
 
