@@ -25,7 +25,7 @@ My target audience primarily consists of graduate and undergraduate students tha
 | Questions               | Interview 1 (MEIM Student, CMU) | Interview 2 (MISM Student, CMU) | Interview 3 (BE Data Science Student, VIT) |
 |-------------------------|--------------------------------|-------------|-------------|
 |What was your first impression about the presentation? | Loved the topic, found it very relevant in the current job market |     Found it very useful and really liked the topic      |           Found all the charts and visualizations to be very helpful. Loved the animated art|
-|        Who do you think is the target audience for this presentation?                     |        Students                       |   Graduate students          |   Engineering Students          | Undergraduate students
+|        Who do you think is the target audience for this presentation?                     |        Students                       |   Graduate students          |   Engineering Students          or Undergraduate students
 |        What was something about the presentation that you didn't like?      |   Wasn't sure about what 'projects' meant, in context of entertainment management        |       It was a bit too long, high school part can be removed. It feels irrelevant for graduate students      |   The title for Box plot was unclear, making it harder to understand |
 |                As a [grad/undergrad] student, what are some things youn would do differently after this presentation?               |  "I will try to pursue some extracurricular activities"    |   "I would probably not stress about my soft skills as much and try to focus more on technical projects"       |       "I would probably focus more on projects more than trying to find a third internship"        |
 |           How useful was this presentation for you?                  |           "I found it very insightful, helped me visually understand the impact of extracurriculars and made me realise I need to get out there and step out of my comfort zone"                    |    Found it very helpful for all students         |        Wanted to share the presentation with his friends                          |
@@ -48,4 +48,8 @@ Overall, my presentation had a positive reception. The topic was well liked and 
 3. https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/
 4. https://storyset.com/
 5. https://shorthand.com/
+
+
+## AI acknowledgements
+Did not use AI
 
