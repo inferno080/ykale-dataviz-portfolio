@@ -5,6 +5,8 @@
 
 My story touches on a topic that every student has on the top of their mind. We all know that the current job market is ... bad. This presentation aims to highlight the differences between students that bagged a job offer after graduation and students that remained unplaced. By making these statistical comparisons, we can identify patterns that placed students adhere to, which might help all students achieve success. I list a few action items at the end that make all this information easily digestable.
 
+My base dataset was downloaded from Kaggle and contains details of over 10,000 students, making it sizable enough to spot patterns. The some action items I touch on are - High School Grades, College GPA, Projects and Internships, Soft Skills, and Extracurriculars. I used DataWrapper and Tableu to create these interactive visualizations.
+
 # Changes made since Part II
 1. Changed the title of title of Box plot to make it more lively and convey what the data is trying to tell
 2. Made changes in font sizes, according to feedback
