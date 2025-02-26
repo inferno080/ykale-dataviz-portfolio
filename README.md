@@ -30,16 +30,16 @@ Hi! I am Yash - a graduate student at Carnegie Mellon that specalizes in fronten
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, I selected a visualization to critique and redesign. I chose a chart depicting Valentine's Day candy sales and made several improvements to enhance its clarity and effectiveness.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My project provides a guide to success in the 2025 job market, based on real world data and statistical analysis. The key audience for this project is students that want to enter the job makret but are confused about what aspects of their profile they should prioritise.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ## References
-
+NA
 
 ## AI acknowledgements
-
+- Used ChatGPT to refine grammar
